@@ -1,4 +1,4 @@
-# 📱 Machine Learning and Data Science in Python: Student Social Media Addiction Analysis
+# Machine Learning and Data Science in Python: Student Social Media Addiction Analysis
 
 ## 📌 Project Overview
 
@@ -273,14 +273,14 @@ Machine-Learning-and-Data-Science-In-Python-Student-Social-Media-Addiction-Analy
 ├── data/
 │   ├── raw_data.csv
 │
-├── notebooks/
+├── Python File/
 │   ├── Student_Social_Media_Analysis.ipynb
+├── models/
+│   ├── trained_models/
 │
 ├── screenshots/
 │   ├── vimages/isualizations/
 │
-├── models/
-│   ├── trained_models/
 │
 ├── requirements.txt
 │
